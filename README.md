@@ -1,1 +1,1 @@
-*JS and jQuery snippets.
+*JS and jQuery snippets.*
