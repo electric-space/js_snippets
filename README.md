@@ -1,1 +1,3 @@
-*JS and jQuery snippets.*
+* JS and jQuery snippets. 
+
+All the scripts in one place.
